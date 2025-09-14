@@ -44,4 +44,4 @@ retail_data1_Challenge1.zip (The raw dataset used for the challenge)
 
 OmniMart_EDA_zip.zip (The main Jupyter Notebook with all our code and analysis)
 
-DataCrafters_EDA_ppt_presentation_challenge1.pptx (A summary of our findings and recommendations)
+DataCrafters_EDA_ppt_presentation_challenge1.pdf (A summary of our findings and recommendations)
